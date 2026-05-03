@@ -86,10 +86,17 @@ AI-powered identity verification platform for secure document upload, fraud dete
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmay-devhub&theme=tokyonight" />
 
+<br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmay-devhub&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanmay-devhub&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmay-devhub&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanmay-devhub&theme=tokyonight&utcOffset=-8" />
 
 </div>
-
 ---
 
 ## 🌐 Connect with me
