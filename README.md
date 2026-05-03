@@ -18,7 +18,7 @@
 - 🔭 Featured project: **Mini Browser Isolation System** using Go, Docker, WebRTC, Kubernetes, Prometheus, and Grafana
 - 💬 Ask me about **React, Next.js, TypeScript, Go, Python, AI/ML, Docker, Kubernetes, and WebRTC**
 - 🌱 Exploring **LLMs, RAG systems, distributed systems, and scalable backend infrastructure**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **tanmay_2106@csu.fullerotn.edu**
 - 🔗 LinkedIn: [linkedin.com/in/tchaudhari2106](https://www.linkedin.com/in/tchaudhari2106/)
 
 <br clear="right"/>
