@@ -84,9 +84,9 @@ AI-powered identity verification platform for secure document upload, fraud dete
 
 <div align="center">
 
-![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmay-devhub&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmay-devhub&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-devhub&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmay-devhub&theme=tokyonight" />
 
 </div>
 
