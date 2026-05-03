@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Tanmay Chaudhari
 
-<!--
-**tanmay-devhub/tanmay-devhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Computer Science student at California State University, Fullerton, focused on AI, full-stack engineering, and distributed systems.
 
-Here are some ideas to get you started:
+I build production-style projects around GenAI applications, browser isolation infrastructure, cloud-native backends, and applied machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Mini Browser Isolation System
+Docker-isolated remote browser platform using Go, Chromium, WebRTC, Kubernetes, Prometheus, and Grafana.
+
+### AI Mock Interview App
+Full-stack GenAI platform built with Next.js, TypeScript, Clerk, Drizzle ORM, Neon, and Gemini AI.
+
+### StreamVault
+Video storage and streaming platform with secure upload, backend APIs, and deployment-ready architecture.
+
+## Tech Stack
+
+Python · TypeScript · JavaScript · Go · React · Next.js · Node.js · Flask · PostgreSQL · Docker · Kubernetes · Prometheus · Grafana · AWS · Gemini AI · WebRTC
+
+## Currently Learning
+
+Distributed systems, LLM applications, cloud infrastructure, and production-grade AI systems.
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/tchaudhari2106/  
+Email: tanmay_2106@csu.fullerton.edu
