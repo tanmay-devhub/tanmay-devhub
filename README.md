@@ -105,6 +105,6 @@ AI-powered identity verification platform for secure document upload, fraud dete
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmay%20Chaudhari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tchaudhari2106/)
 [![GitHub](https://img.shields.io/badge/GitHub-tanmay--devhub-black?style=for-the-badge&logo=github)](https://github.com/tanmay-devhub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge&logo=vercel)](https://tanmay-chaudhari-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-orange?style=for-the-badge&logo=vercel)](https://tanmay-chaudhari-portfolio.vercel.app/)
 
 </div>
