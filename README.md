@@ -2,9 +2,7 @@
 
 # Hi 👋, I'm Tanmay Chaudhari
 
----
-
-## 👀 I’m interested in AI, Full-Stack Engineering & Distributed Systems
+### MS CS @ Cal State Fullerton · AI/ML · Full-Stack · Distributed Systems
 
 </div>
 
@@ -12,14 +10,15 @@
 
 <img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎓 MS Computer Science student at **California State University, Fullerton**
-- 🚀 Building production-style projects in **AI, full-stack apps, cloud, and distributed systems**
-- 🧠 Currently working on **GenAI applications, browser isolation infrastructure, and cloud-native systems**
-- 🔭 Featured project: **Mini Browser Isolation System** using Go, Docker, WebRTC, Kubernetes, Prometheus, and Grafana
-- 💬 Ask me about **React, Next.js, TypeScript, Go, Python, AI/ML, Docker, Kubernetes, and WebRTC**
-- 🌱 Exploring **LLMs, RAG systems, distributed systems, and scalable backend infrastructure**
-- 📫 Reach me at: **tanmay_2106@csu.fullerotn.edu**
+- 🎓 **MS Computer Science** at **California State University, Fullerton** (AI & Software Engineering)
+- 🔬 Researching **Parkinson's disease detection** using 3D MRI deep learning on the PPMI dataset — 92% accuracy, significant HPC throughput gains with CUDA/TensorFlow/PyTorch
+- 🚀 Building **Prometheus** — an autonomous ML pipeline builder powered by LLMs and E2B sandboxes
+- 🧠 Interested in **Agentic AI, RAG systems, GenAI Engineering, and ML Infrastructure**
+- 🌱 Exploring **LLM orchestration, knowledge graphs, and scalable AI backends**
+- 💬 Ask me about **Python, Go, TypeScript, React, LLMs, RAG, Docker, Kubernetes, and WebRTC**
+- 📫 Reach me at: **tanmay_2106@csu.fullerton.edu**
 - 🔗 LinkedIn: [linkedin.com/in/tchaudhari2106](https://www.linkedin.com/in/tchaudhari2106/)
+- 🌐 Portfolio: [tanmay-chaudhari-portfolio.vercel.app](https://tanmay-chaudhari-portfolio.vercel.app/)
 
 <br clear="right"/>
 
@@ -45,6 +44,14 @@
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br>Tailwind</td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/><br>FastAPI</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br>PyTorch</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>Scikit-learn</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/><br>OpenCV</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="45"/><br>Neo4j</td>
+  </tr>
+  <tr>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br>MongoDB</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/><br>Redis</td>
@@ -56,9 +63,9 @@
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br>GitHub</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br>VS Code</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br>PyTorch</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/><br>Azure</td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/><br>Vercel</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45"/><br>Swift</td>
   </tr>
 </table>
 
@@ -66,17 +73,23 @@
 
 ## 🚀 Featured Projects
 
+### ⚡ Prometheus: Autonomous ML Pipeline Builder
+An agentic system where users describe an ML problem in plain English, upload a CSV, and the system **autonomously designs pipelines, generates and executes code in E2B sandboxes**, debugs failures through a closed retry loop, and produces a **deployable FastAPI endpoint with SHAP explanations**. Built with LangChain, OpenAI, E2B, FastAPI, and Scikit-learn.
+
+### 🕸️ GraphRAG System
+Knowledge graph-powered RAG pipeline using **Neo4j, LangChain, LLMGraphTransformer**, and cross-encoder reranking for high-precision document retrieval and multi-hop reasoning over structured knowledge.
+
+### 👁️ VisionRAG System
+Multimodal RAG pipeline combining a **vision model with ChromaDB** and cross-encoder reranking to enable semantic search and reasoning over image-heavy document corpora.
+
+### 🔬 Parkinson's Disease Detection (Research)
+3D MRI deep learning model on the **PPMI dataset** achieving **92% classification accuracy** with major HPC training throughput improvements via CUDA optimization (TensorFlow/PyTorch).
+
 ### 🔐 Mini Browser Isolation System
-Docker-isolated remote browser platform streaming Headless Chromium via **WebRTC** with **WebSocket fallback**, Kubernetes autoscaling, and observability.
+Docker-isolated remote browser platform streaming Headless Chromium via **WebRTC** with WebSocket fallback, Kubernetes autoscaling, and full observability via Prometheus and Grafana.
 
 ### 🤖 AI Mock Interview App
 Full-stack GenAI mock interview platform using **Next.js, TypeScript, Clerk, Drizzle ORM, Neon, and Gemini AI**.
-
-### 🎥 StreamVault
-Full-stack video storage and streaming platform with secure uploads, media playback, backend APIs, and cloud-ready deployment.
-
-### 🪪 Trust-ID
-AI-powered identity verification platform for secure document upload, fraud detection, and trust-based user verification.
 
 ---
 
@@ -97,6 +110,7 @@ AI-powered identity verification platform for secure document upload, fraud dete
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanmay-devhub&theme=tokyonight&utcOffset=-8" />
 
 </div>
+
 ---
 
 ## 🌐 Connect with me
